@@ -43,11 +43,14 @@ We help scale our products so teams can work effectively in any type of business
 
 ## Technology Stack
 
-Our products are built using modern web technologies and proven open-source frameworks:
-- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
-- **Backend**: Node.js, various Node ecosystem packages
-- **Runtime**: Bun for improved developer experience and performance
-- **AI Integration**: Custom AI tools and frameworks integrated with our products
+Our products are built using modern web technologies and proven open-source frameworks.
+
+The programming languages used across LoBot LLC's repositories, as detected from our GitHub organization:
+
+- ![TypeScript](https://cdn.simpleicons.org/typescript)
+- ![JavaScript](https://cdn.simpleicons.org/javascript)
+
+---
 
 ## Get Involved
 
