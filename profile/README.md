@@ -49,6 +49,10 @@ The programming languages used across LoBot LLC's repositories, as detected from
 
 - ![TypeScript](https://cdn.simpleicons.org/typescript)
 - ![JavaScript](https://cdn.simpleicons.org/javascript)
+- ![CSS](https://cdn.simpleicons.org/css)
+- ![JSON](https://cdn.simpleicons.org/json)
+- ![YAML](https://cdn.simpleicons.org/yaml)
+- ![Markdown](https://cdn.simpleicons.org/markdown)
 
 ---
 
