@@ -45,7 +45,7 @@ We help scale our products so teams can work effectively in any type of business
 
 Our products are built using modern web technologies and proven open-source frameworks.
 
-The programming languages used across LoBot LLC's repositories, as detected from our GitHub organization:
+The programming languages used across LoBot LLC's repositories:
 
 - <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="20" height="20" /> TypeScript
 - <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="20" height="20" /> JavaScript
