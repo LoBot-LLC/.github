@@ -47,12 +47,12 @@ Our products are built using modern web technologies and proven open-source fram
 
 The programming languages used across LoBot LLC's repositories, as detected from our GitHub organization:
 
-- ![TypeScript](https://cdn.simpleicons.org/typescript)
-- ![JavaScript](https://cdn.simpleicons.org/javascript)
-- ![CSS](https://cdn.simpleicons.org/css)
-- ![JSON](https://cdn.simpleicons.org/json)
-- ![YAML](https://cdn.simpleicons.org/yaml)
-- ![Markdown](https://cdn.simpleicons.org/markdown)
+- ![TypeScript](https://cdn.simpleicons.org/typescript) TypeScript
+- ![JavaScript](https://cdn.simpleicons.org/javascript) JavaScript
+- ![CSS](https://cdn.simpleicons.org/css) CSS
+- ![JSON](https://cdn.simpleicons.org/json) JSON
+- ![YAML](https://cdn.simpleicons.org/yaml) YAML
+- ![Markdown](https://cdn.simpleicons.org/markdown) Markdown
 
 ---
 
