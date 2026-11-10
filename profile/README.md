@@ -47,12 +47,29 @@ Our products are built using modern web technologies and proven open-source fram
 
 The programming languages used across LoBot LLC's repositories:
 
-- <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="20" height="20" /> TypeScript
-- <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="20" height="20" /> JavaScript
-- <img src="https://cdn.simpleicons.org/css" alt="CSS" width="20" height="20" /> CSS
-- <img src="https://cdn.simpleicons.org/json" alt="JSON" width="20" height="20" /> JSON
-- <img src="https://cdn.simpleicons.org/yaml" alt="YAML" width="20" height="20" /> YAML
-- <img src="https://cdn.simpleicons.org/markdown" alt="Markdown" width="20" height="20" /> Markdown
+- <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="20" height="20" /> **TypeScript** — Primary language across all repositories (TecnoIndicator, homepage, .github)
+- <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="20" height="20" /> **JavaScript** — Used in configuration files and build scripts
+- <img src="https://cdn.simpleicons.org/css" alt="CSS" width="20" height="20" /> **CSS** — Styling via Tailwind CSS 4
+- <img src="https://cdn.simpleicons.org/json" alt="JSON" width="20" height="20" /> **JSON** — Configuration and data files
+- <img src="https://cdn.simpleicons.org/yaml" alt="YAML" width="20" height="20" /> **YAML** — CI/CD and configuration
+- <img src="https://cdn.simpleicons.org/markdown" alt="Markdown" width="20" height="20" /> **Markdown** — Documentation
+
+**Frameworks & Tools:**
+- **Next.js 16** (App Router) — React framework for production-grade web applications
+- **React 19** — UI library with concurrent features
+- **Tailwind CSS 4** — Utility-first styling
+- **Chart.js** — Interactive data visualization (TecnoIndicator)
+- **Drizzle ORM** — Type-safe database ORM (homepage)
+- **PostgreSQL** — Primary database (homepage)
+- **Bun** — Fast runtime and tooling
+- **pnpm** — Disk-efficient package manager
+
+---
+
+## Credits
+
+We would like to extend our deepest gratitude to **McClusky Minh** (aka **[xfst14](https://github.com/xfst14)**), the Founder and CEO of LoBot LLC, for being the original architect of **LoBot TecnoIndicator** and later establishing LoBot as a company. His vision, dedication, and relentless pursuit of innovation has been the decisive factor behind LoBot's success. 
+Thank you for building the foundation that empowers businesses worldwide to future-proof their operations through AI and open source.
 
 ---
 
