@@ -48,11 +48,8 @@ Our products are built using modern web technologies and proven open-source fram
 The programming languages used across LoBot LLC's repositories:
 
 - <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="20" height="20" /> TypeScript
-- <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="20" height="20" /> JavaScript
-- <img src="https://cdn.simpleicons.org/css" alt="CSS" width="20" height="20" /> CSS
-- <img src="https://cdn.simpleicons.org/json" alt="JSON" width="20" height="20" /> JSON
-- <img src="https://cdn.simpleicons.org/yaml" alt="YAML" width="20" height="20" /> YAML
-- <img src="https://cdn.simpleicons.org/markdown" alt="Markdown" width="20" height="20" /> Markdown
+
+We also utilize HTML, CSS, and JavaScript for our web-based applications.
 
 ---
 
