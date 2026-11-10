@@ -68,7 +68,8 @@ The programming languages used across LoBot LLC's repositories (as of November 2
 
 ## Credits
 
-We would like to extend our deepest gratitude to **McClusky Minh** (aka **[xfst14](https://github.com/xfst14)**), the Founder and CEO of LoBot LLC, for being the original architect of **LoBot TecnoIndicator** and later establishing LoBot as a company. His vision, dedication, and relentless pursuit of innovation have been the driving force behind LoBot's success. Thank you for building the foundation that empowers businesses worldwide to future-proof their operations through AI and open source.
+We would like to extend our deepest gratitude to **McClusky Minh** (aka **[xfst14](https://github.com/xfst14)**), the Founder and CEO of LoBot LLC, for being the original architect of **LoBot TecnoIndicator** and later establishing LoBot as a company. His vision, dedication, and relentless pursuit of innovation has been the decisive factor behind LoBot's success. 
+Thank you for building the foundation that empowers businesses worldwide to future-proof their operations through AI and open source.
 
 ---
 
