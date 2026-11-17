@@ -6,7 +6,7 @@
 
 ## About Us
 
-LoBot LLC is a fast-moving, AI-native startup dedicated to building better logistics solutions that help businesses future-proof their operations. We develop high-quality software products that empower organizations of all sizes to optimize their logistics, improve business efficiency and productivity, and accelerate growth through accessible technology.
+LoBot LLC is a fast-moving, AI-native Vietnamese startup dedicated to building better logistics solutions that help businesses future-proof their operations. We develop high-quality software products that empower organizations of all sizes to optimize their logistics, improve business efficiency and productivity, and accelerate growth through accessible technology.
 
 ## Our Mission
 
@@ -80,3 +80,5 @@ We welcome contributors, collaborators, and businesses interested in improving t
 ---
 
 *LoBot LLC — empowering better business decisions through AI and open source.*
+
+*Built with ❤️ by the founders from HCMC 😘*
