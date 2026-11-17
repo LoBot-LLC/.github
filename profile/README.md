@@ -79,5 +79,6 @@ We welcome contributors, collaborators, and businesses interested in improving t
 
 ---
 
-*LoBot LLC — empowering better business decisions through AI and open source.
-Built with ❤️ by the founders of HCMC 😘*
+*LoBot LLC — empowering better business decisions through AI and open source.*
+
+*Built with ❤️ by the founders from HCMC 😘*
